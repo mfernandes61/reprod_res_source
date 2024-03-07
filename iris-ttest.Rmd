@@ -1,0 +1,53 @@
+---
+title: "example4git"
+author: "Inigo Montoya"
+date: "2024-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### This is a minimal example R script to be worked on
+#### as a collaborative project on RepRes in R course
+#### Clone the repos so you have your own copy. You are
+#### expected to work in pairs. Give your partner collaborator
+#### access. They will annotate the code in a branch to improve 
+#### it's internal documentation and then request a merge with
+#### the Main branch.   
+
+```{r}
+
+data(iris)
+
+head(iris)
+
+```
+
+```{r}
+
+setosa <- iris[iris$Species == "setosa", ]
+versicolor <- iris[iris$Species == "versicolor", ]
+virginica <- iris[iris$Species == "virginica", ]
+
+```
+
+```{r}
+
+nrow(setosa)
+nrow(versicolor)
+nrow(virginica)
+
+```
+
+```{r}
+
+t.test(x = setosa$Petal.Length, y = versicolor$Petal.Length)
+
+t.test(x = setosa$Petal.Length, y = virginica$Petal.Length)
+
+t.test(x = versicolor$Petal.Length, y = virginica$Petal.Length)
+
+```
+
