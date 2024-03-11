@@ -6,3 +6,14 @@ Clone this repository and then give access to the copy to students for branch ex
 revoke permissions to let them work on Forked repositories.   
 
 The misspelt version used this [utility](https://www.online-utility.org/text/misspellizer.jsp).  
+
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 1](img/step-1.png "Step 1")
+![Step 10](img/step-10.png "Step 10")
