@@ -20,19 +20,19 @@ name (You will be sharing this with your study partner for the branching & forki
 
 4. Click on the green Import button and after a short wait you will have a new respository in your repository list.    
 ![Step 4](img/step-4.png "Step 4")
-
+   
 5. For the branching exercise you will need to make your study partner a collaborator to give
 them the ability to edit your repository document Click on the settings cogon top RH corner of the repository.
 ![Step 5](img/step-5.png "Step 5")
-
+   
 6. Now click on collaborators (Under General(.      
 ![Step 6](img/step-6.png "Step 6")
-
-8. You will now need to authenticate as you are changing access to one of your repositories (Here we use the "Github Mobile" app.   
+    
+7. You will now need to authenticate as you are changing access to one of your repositories (Here we use the "Github Mobile" app.   
 ![Step 7](img/step-7.png "Step 7")
-
-![Step 8](img/step-8.png "Step 8")
-
+   
+8. Choose to add people.   
 ![Step 9](img/step-9.png "Step 9")
-
+    
+9. Search for your study partners github ID and select them.    
 ![Step 10](img/step-10.png "Step 10")
