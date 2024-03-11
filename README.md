@@ -2,6 +2,8 @@
 A deliberately misspelt version of [this BTF page](https://bioinfotraining.bio.cam.ac.uk/about-facility) 
 for use as a Github teaching Exercise. The misspelt version used this 
 [utility](https://www.online-utility.org/text/misspellizer.jsp).  
+Additionally, as an alternative document for editting - a RMarkdown R program in severe need of some 
+explanatory Markdown documentation.   
 
 Students should "Clone" this repository and then give access to the copy to students for branch exercise,    
 Later you will revoke permissions to let them work on a fork of the repository.
