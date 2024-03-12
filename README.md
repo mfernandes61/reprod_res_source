@@ -8,6 +8,7 @@ explanatory Markdown documentation.
 Students should "Clone" this repository and then give access to the copy to students for branch exercise,    
 Later you will revoke permissions to let them work on a fork of the repository.
 (Follow the instructions below).   
+To remove a collaborator, follow [these instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/removing-a-collaborator-from-a-personal-repository)
 
 __Instructions on making your own copy of this repository__
 1. Click in the URL bar of your browser and copy the URL of this repository.   
